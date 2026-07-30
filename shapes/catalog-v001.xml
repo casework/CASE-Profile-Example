@@ -48,6 +48,6 @@
     <uri id="User Entered Import Resolution" uri="../dependencies/UCO-Profile-Example/dependencies/CDO-Shapes-Example/shapes/sh-example.ttl" name="http://example.org/shapes/sh-example"/>
     <uri id="User Entered Import Resolution" uri="../dependencies/UCO-Profile-Example/ontology/uco-example.ttl" name="http://example.org/ontology/uco-example"/>
     <uri id="User Entered Import Resolution" uri="../dependencies/UCO-Profile-Example/shapes/sh-uco-example.ttl" name="http://example.org/shapes/sh-uco-example"/>
-    <uri id="User Entered Import Resolution" uri="../ontology/case-example.ttl" name="http://example.org/ontology/case-example"/>
+    <uri id="User Entered Import Resolution" uri="../ontology/generated-local.ttl" name="http://example.org/ontology/case-example"/>
     <uri id="User Entered Import Resolution" uri="sh-case-example.ttl" name="http://example.org/shapes/sh-case-example"/>
 </catalog>

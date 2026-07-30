@@ -41,7 +41,11 @@
     <uri id="User Entered Import Resolution" uri="../dependencies/CASE/ontology/investigation/investigation.ttl" name="https://ontology.caseontology.org/case/investigation"/>
     <uri id="User Entered Import Resolution" uri="../dependencies/CASE/ontology/investigation/investigation.ttl" name="https://ontology.caseontology.org/case/investigation/1.5.0"/>
     <uri id="User Entered Import Resolution" uri="../dependencies/CASE/ontology/master/case.ttl" name="https://ontology.caseontology.org/case/case"/>
+    <uri id="User Entered Import Resolution" uri="../dependencies/CASE/ontology/master/case.ttl" name="https://ontology.caseontology.org/case/case/1.5.0"/>
     <uri id="User Entered Import Resolution" uri="../dependencies/CASE/ontology/vocabulary/vocabulary.ttl" name="https://ontology.caseontology.org/case/vocabulary"/>
     <uri id="User Entered Import Resolution" uri="../dependencies/CASE/ontology/vocabulary/vocabulary.ttl" name="https://ontology.caseontology.org/case/vocabulary/1.5.0"/>
     <uri id="User Entered Import Resolution" uri="../dependencies/UCO-Profile-Example/dependencies/CDO-Shapes-Example/dependencies/formatted-example.ttl" name="http://example.org/ontology/example"/>
+    <uri id="User Entered Import Resolution" uri="../dependencies/UCO-Profile-Example/dependencies/CDO-Shapes-Example/dependencies/formatted-example.ttl" name="http://example.org/ontology/example/0.0.1"/>
+    <uri id="User Entered Import Resolution" uri="../dependencies/UCO-Profile-Example/ontology/uco-example.ttl" name="http://example.org/ontology/uco-example"/>
+    <uri id="User Entered Import Resolution" uri="generated-local.ttl" name="http://example.org/ontology/case-example"/>
 </catalog>
